@@ -57,22 +57,6 @@ export const StyledCarbonLogo = styled.img`
     width: ${(props) => props.width ? props.width : '162px'};
 `
 
-// Project Phases
-export const StyledProjectPhasesContainer = styled.div`
-    background: ${({theme}) => theme.secondaryDark};
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 100%;
-    padding-top: 5vh;
-`
-
-export const StyledProjectPhasesTitle = styled.h2`
-    color: white;
-    margin: auto;
-    padding-bottom: 4vh;
-`
-
 export const StyledSolutionNewsletterWrapper = styled.div`
     position: relative;
     height: 547px;
