@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8a96e838.chunk.css",
+    "main.js": "/static/js/main.37ecbe2d.chunk.js",
+    "main.js.map": "/static/js/main.37ecbe2d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.95e0047a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.95e0047a.js.map",
+    "static/js/2.e2864118.chunk.js": "/static/js/2.e2864118.chunk.js",
+    "static/js/2.e2864118.chunk.js.map": "/static/js/2.e2864118.chunk.js.map",
+    "static/js/3.421e7394.chunk.js": "/static/js/3.421e7394.chunk.js",
+    "static/js/3.421e7394.chunk.js.map": "/static/js/3.421e7394.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.8a96e838.chunk.css.map": "/static/css/main.8a96e838.chunk.css.map",
+    "static/js/2.e2864118.chunk.js.LICENSE.txt": "/static/js/2.e2864118.chunk.js.LICENSE.txt",
+    "static/media/PNP_en.2b5c31f5.pdf": "/static/media/PNP_en.2b5c31f5.pdf",
+    "static/media/background-amazon.132c11ea.jpg": "/static/media/background-amazon.132c11ea.jpg",
+    "static/media/coin-background.2d8c07fb.png": "/static/media/coin-background.2d8c07fb.png",
+    "static/media/fauna.1bbf6bca.jpg": "/static/media/fauna.1bbf6bca.jpg",
+    "static/media/forest.cf796cba.jpg": "/static/media/forest.cf796cba.jpg",
+    "static/media/forest2.58ef7b4c.jpeg": "/static/media/forest2.58ef7b4c.jpeg",
+    "static/media/hero-image.b77a1cab.jpg": "/static/media/hero-image.b77a1cab.jpg",
+    "static/media/image2vector.4088797e.svg": "/static/media/image2vector.4088797e.svg",
+    "static/media/rainforest-token.26e7ce84.png": "/static/media/rainforest-token.26e7ce84.png",
+    "static/media/rainforest.6a94cb37.jpg": "/static/media/rainforest.6a94cb37.jpg",
+    "static/media/recovered.5081f1a8.jpeg": "/static/media/recovered.5081f1a8.jpeg",
+    "static/media/satellite-image.85674f64.jpg": "/static/media/satellite-image.85674f64.jpg",
+    "static/media/squiggly-shape.0ba38469.svg": "/static/media/squiggly-shape.0ba38469.svg",
+    "static/media/token-distribution-desktop.1f875baa.jpg": "/static/media/token-distribution-desktop.1f875baa.jpg",
+    "static/media/token-distribution-mobile.20c3c55e.jpg": "/static/media/token-distribution-mobile.20c3c55e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95e0047a.js",
+    "static/js/2.e2864118.chunk.js",
+    "static/css/main.8a96e838.chunk.css",
+    "static/js/main.37ecbe2d.chunk.js"
+  ]
+}
